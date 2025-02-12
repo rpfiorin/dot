@@ -10,5 +10,4 @@
 
 Aprecie!
 
-ℹ️ OBS
-Para reproduzir sem Docker, não esqueça de executar este comando antes de 'npx cypress open': npm i
+ℹ️ Para reproduzir sem Docker, não esqueça de executar este comando antes de 'npx cypress open': npm i
