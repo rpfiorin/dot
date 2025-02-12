@@ -1,0 +1,4 @@
+# ignora arquivos desnecessarios para execucao
+*.pyc
+# ignora diretorios desnecessarios para github
+.venv/
