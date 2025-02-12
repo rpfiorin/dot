@@ -1,6 +1,6 @@
 Sugestões
 ---------
 
-No processo de automação de testes, como melhoria para a prática do desenvolvimento, poderia ser adotado o uso de containerização para a execução em outra máquina (como em 1. front-end),
-evitando que seja necessário a configuração do ambiente das tecnologias utilizadas ou também, o uso de lint para após desenvolvido uma alteração em código, revisar se o mesmo continua 
-seguindo convenções da linguagem (como em 2. back-end), que foi adotado o black/pep-8.
+No processo da automação de testes, como melhoria para a prática do desenvolvimento, poderia ser adotado o uso de containerização para executar o projeto em outra
+máquina sem que seja necessário a configuração do ambiente das tecnologias utilizadas (como em 1. front-end), ou também, o uso de lint para após desenvolvido uma 
+alteração em código, formatá-lo para que continue seguindo convenções da linguagem (como em 2. back-end), adotando o black/pep-8.

@@ -1,7 +1,7 @@
 # Testes automatizados com Python requests
 
 ## Como reproduzir 📍
-1. Instale o Python 3.10 ou superior.
+1. Instale o Python 3.10 ou superior
 2. Abra o prompt neste diretório e execute os comandos: 
    - python -m venv .venv
    - source .venv/Scripts/activate ou .venv\Scripts\activate
