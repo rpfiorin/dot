@@ -1,14 +1,14 @@
-# Front-end automated tests with cypress.io
+# Testes automatizados com Cypress.io
 
-## How to execute
-1. Check that docker is installed.
-2. Open some terminal into this project dir and run:
-   docker build -t front-end .
-3. After doing the step 2, run this command:
-   docker run front-end .
-4. The tests will start.
+## Como reproduzir 📍
+1. Confira se o Docker foi instalado e se está em execução.
+2. Abra o prompt neste diretório e rode:
+   - docker build -t front-end .
+3. Após o passo 2, execute este comando:
+   - docker run front-end .
+4. Os testes serão iniciados.
 
-Enjoy it!
+Aprecie!
 
-
-OBS: To run without docker, don't forget to run this command before: npm i
+ℹ️ OBS
+Para reproduzir sem Docker, não esqueça de executar este comando antes de 'npx cypress open': npm i

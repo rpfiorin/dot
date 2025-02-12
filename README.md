@@ -1,3 +1,3 @@
 # Dot digital group
 
-## Bem-vindo à minha resolução!
+## ✨ Bem-vindo à minha resolução!
