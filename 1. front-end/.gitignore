@@ -1,2 +1,4 @@
 # ignora diretorios desnecessarios para github
 node_modules/
+# ignora arquivos desnecessarios para execucao
+*.mp4
