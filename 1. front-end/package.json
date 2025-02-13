@@ -5,14 +5,9 @@
   "scripts": {},
   "author": "Rafael P. Fiorin",
   "license": "ISC",
-  "description": "",
+  "description": "Technical proof",
   "devDependencies": {
-    "cypress": "^12.5.0",
-    "cypress-drag-drop": "^1.1.1",
-    "cypress-file-upload": "^5.0.8",
+    "cypress": "^12.17.4",
     "cypress-real-events": "^1.13.0"
-  },
-  "dependencies": {
-    "cypress-xpath": "^2.0.1"
   }
 }
