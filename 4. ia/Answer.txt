@@ -1,0 +1,27 @@
+1 ) Aspectos que eu avaliaria:
+    --------------------------
+
+ - Capacidade de contexto = Para testar se a aplicação entende o contexto de conversas anteriores e fornece as próximas respostas como esperado.
+ - Variedade de tópico = Para analisar se a aplicação aborda uma gama de assuntos, desde questões técnicas até conversas descontraídas.
+ - Precisão e relevância das respostas = Para verificar se a aplicação oferece respostas precisas e pertinentes às perguntas feitas.
+ - Interação natural = Para verificar se a aplicação gera respostas que soam fluidas, evitando uma abordagem robótica.
+ - Performance = Para testar o tempo médio com que a aplicação fornece respostas, garantindo uma interação eficiente.
+ - Capacidade de personalização = Para avaliar se a aplicação pode ser personalizada para atender possíveis necessidades futuras dos usuários.
+ - Segurança = Para certificar de que a aplicação cumpre as normas de privacidade, protegendo os dados dos usuários.
+ - Suporte multilíngue = Para testar se a aplicação oferece suporte a outros idiomas e se a qualidade das respostas também é consistente.
+ - Adaptação a feedback = Para verificar se a aplicação pode ser ajustada com as sugestões de melhoria dos usuários ao longo do tempo.
+ - Integração com outras ferramentas = Para analisar a capacidade da aplicação de se integrar com outros serviços que possam enriquecer a UI/UX.
+
+
+* Se nunca utilizou IA...
+-------------------------
+
+Em minha trajetória como QA até então, não trabalhei em algum projeto que envolvesse IA. No entanto, em 05/2024 participei presencialmente de um
+evento exclusivo de Qualidade em Software na capital paulista, denominado '4ALL Tests Referências' o qual uma das apresentações foi sobre uso do
+Copilot para automação de testes.
+Com base nesta apresentação, acredito que a IA pode ser usada para melhorar a produtividade desta categoria de desenvolvimento, gerando insights
+para possivelmente aproveitá-los durante a codificação como no caso do GitHub Copilot, que faz sugestões baseadas no contexto da automação, 
+utilizando-se da base de códigos-fonte disponíveis no GitHub para seu funcionamento.
+
+
+
