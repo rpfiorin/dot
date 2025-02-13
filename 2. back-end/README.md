@@ -9,4 +9,4 @@
 4. Rode o arquivo main.py com um dos comandos:
    - 'python main.py' ou 'py main.py'
 
-Thanks!
+Aprecie!

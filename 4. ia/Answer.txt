@@ -21,7 +21,8 @@ evento exclusivo de Qualidade em Software na capital paulista, denominado '4ALL 
 Copilot para automação de testes.
 Com base nesta apresentação, acredito que a IA pode ser usada para melhorar a produtividade desta categoria de desenvolvimento, gerando insights
 para possivelmente aproveitá-los durante a codificação como no caso do GitHub Copilot, que faz sugestões baseadas no contexto da automação, 
-utilizando-se da base de códigos-fonte disponíveis no GitHub para seu funcionamento.
+utilizando-se da base de códigos-fonte disponíveis no GitHub para seu funcionamento. Certamente, ferramentas como esta se tornarão cada vez mais
+presentes na rotina de trabalho em TI nos próximos anos, e no ramo da QA/SDET não deverá ser diferente.
 
 
 
