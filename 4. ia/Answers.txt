@@ -16,13 +16,13 @@
 * Se nunca utilizou IA...
 -------------------------
 
-Em minha trajetória como QA até então, não trabalhei em algum projeto que envolvesse IA. No entanto, em 05/2024 participei presencialmente de um
-evento exclusivo de Qualidade em Software na capital paulista, denominado '4ALL Tests Referências' o qual uma das apresentações foi sobre uso do
-Copilot para automação de testes.
+Em minha trajetória como QA até então, não trabalhei em algum projeto que envolvesse IA para automação de testes. No entanto, em 2024 participei 
+presencialmente de um evento exclusivo de Qualidade em Software na capital paulista, denominado '4ALL Tests Referências' o qual uma das apresentações 
+foi sobre uso do Copilot em automação de testes.
 Com base nesta apresentação, acredito que a IA pode ser usada para melhorar a produtividade desta categoria de desenvolvimento, gerando insights
-para possivelmente aproveitá-los durante a codificação como no caso do GitHub Copilot, que faz sugestões baseadas no contexto da automação, 
-utilizando-se da base de códigos-fonte disponíveis no GitHub para seu funcionamento. Certamente, ferramentas como esta se tornarão cada vez mais
-presentes na rotina de trabalho em TI nos próximos anos, e no ramo da QA/SDET não deverá ser diferente.
+para possivelmente aproveitá-los durante a codificação como no caso desta ferramenta apresentada (GitHub Copilot), que faz sugestões baseadas no contexto 
+da automação, utilizando-se da base de códigos-fonte disponíveis no GitHub para seu funcionamento. Certamente, ferramentas como esta se tornarão cada vez 
+mais presentes na rotina de trabalho em TI nos próximos anos, e no ramo da QA/SDET não deverá ser diferente.
 
 
 
